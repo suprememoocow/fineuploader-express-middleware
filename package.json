@@ -1,0 +1,25 @@
+{
+  "name": "fineuploader-express-middleware",
+  "version": "0.0.1",
+  "description": "Express middleware for fineuploader (aka valums file uploader)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/suprememoocow/fineuploader-express-middleware.git"
+  },
+  "keywords": [
+    "fineuploader",
+    "valums",
+    "express",
+    "expressjs",
+    "file",
+    "upload",
+    "http"
+  ],
+  "author": "Andrew Newdigate",
+  "license": "BSD",
+  "dependencies": {
+    "formidable": ">=1.0.11",
+    "qs": "~0.5.1"
+  }
+}
