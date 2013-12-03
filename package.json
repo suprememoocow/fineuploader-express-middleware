@@ -1,6 +1,6 @@
 {
   "name": "fineuploader-express-middleware",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Express middleware for fineuploader (aka valums file uploader)",
   "main": "index.js",
   "repository": {
